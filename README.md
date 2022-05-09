@@ -31,39 +31,102 @@ Skills:  REACT / JS / HTML / CSS / TS / Git / Node.js / Express.js / Mongodb /
 ![Profile views](https://gpvc.arturio.dev/Maruf200008)  
 
 
-<!--header-->
 <table>
-  <tr><td colspan="2"><a href="/README.md#%EF%B8%8F-templates">← Back to templates index</a></td></tr>
-  <tr><th colspan="2"><h3>📗 Classic template</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>A template mimicking GitHub visual identity.
-This is also the default template.</p>
+  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
+  <tr><th colspan="2"><h3>⏱️ Website performances</h3></th></tr>
+  <tr><td colspan="2" align="center"><p>This plugin adds performance statistics of a website.
+It uses <a href="https://developers.google.com/speed/docs/insights/v5/get-started">Google&#39;s PageSpeed API</a> (same as <a href="https://web.dev">web.dev</a>), see <a href="https://web.dev/performance-scoring/">performance scoring</a> and <a href="https://googlechrome.github.io/lighthouse/scorecalc/">score calculator</a> for more informations about results.</p>
 </td></tr>
   <tr>
     <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/plugins/achievements/README.md" title="🏆 Achievements">🏆</a> <a href="/source/plugins/activity/README.md" title="📰 Recent activity">📰</a> <a href="/source/plugins/anilist/README.md" title="🌸 Anilist watch list and reading list">🌸</a> <a href="/source/plugins/calendar/README.md" title="📆 Calendar">📆</a> <a href="/source/plugins/code/README.md" title="♐ Code snippet of the day">♐</a> <a href="/source/plugins/fortune/README.md" title="🥠 Fortune">🥠</a> <a href="/source/plugins/nightscout/README.md" title="💉 Nightscout">💉</a> <a href="/source/plugins/poopmap/README.md" title="💩 PoopMap plugin">💩</a> <a href="/source/plugins/screenshot/README.md" title="📸 Website screenshot">📸</a> <a href="/source/plugins/stock/README.md" title="💹 Stock prices">💹</a> <a href="/source/plugins/discussions/README.md" title="💬 Discussions">💬</a> <a href="/source/plugins/followup/README.md" title="🎟️ Follow-up of issues and pull requests">🎟️</a> <a href="/source/plugins/gists/README.md" title="🎫 Gists">🎫</a> <a href="/source/plugins/habits/README.md" title="💡 Coding habits">💡</a> <a href="/source/plugins/introduction/README.md" title="🙋 Introduction">🙋</a> <a href="/source/plugins/isocalendar/README.md" title="📅 Isometric commit calendar">📅</a> <a href="/source/plugins/languages/README.md" title="🈷️ Most used languages">🈷️</a> <a href="/source/plugins/lines/README.md" title="👨‍💻 Lines of code changed">👨‍💻</a> <a href="/source/plugins/music/README.md" title="🎼 Music plugin">🎼</a> <a href="/source/plugins/notable/README.md" title="🎩 Notable contributions">🎩</a> <a href="/source/plugins/pagespeed/README.md" title="⏱️ Website performances">⏱️</a> <a href="/source/plugins/people/README.md" title="🧑‍🤝‍🧑 People plugin">🧑‍🤝‍🧑</a> <a href="/source/plugins/posts/README.md" title="✒️ Recent posts">✒️</a> <a href="/source/plugins/projects/README.md" title="🗂️ Active projects">🗂️</a> <a href="/source/plugins/reactions/README.md" title="🎭 Comment reactions">🎭</a> <a href="/source/plugins/repositories/README.md" title="📓 Repositories">📓</a> <a href="/source/plugins/rss/README.md" title="🗼 Rss feed">🗼</a> <a href="/source/plugins/skyline/README.md" title="🌇 GitHub Skyline 3D calendar">🌇</a> <a href="/source/plugins/sponsors/README.md" title="💕 GitHub Sponsors">💕</a> <a href="/source/plugins/stackoverflow/README.md" title="🗨️ StackOverflow plugin">🗨️</a> <a href="/source/plugins/stargazers/README.md" title="✨ Stargazers over last weeks">✨</a> <a href="/source/plugins/starlists/README.md" title="💫 Starlists">💫</a> <a href="/source/plugins/stars/README.md" title="🌟 Recently starred repositories">🌟</a> <a href="/source/plugins/support/README.md" title="💭 GitHub Community Support">💭</a> <a href="/source/plugins/topics/README.md" title="📌 Starred topics">📌</a> <a href="/source/plugins/traffic/README.md" title="🧮 Repositories traffic">🧮</a> <a href="/source/plugins/tweets/README.md" title="🐤 Latest tweets">🐤</a> <a href="/source/plugins/wakatime/README.md" title="⏰ WakaTime plugin">⏰</a></td>
+    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/repository/README.md"><code>📘 Repository template</code></a> <a href="/source/templates/terminal/README.md"><code>📙 Terminal template</code></a></td>
   </tr>
   <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
+    <td><code>👤 Users</code> <code>👥 Organizations</code> <code>📓 Repositories</code></td>
   </tr>
   <tr>
-    <td><code>*️⃣ SVG</code> <code>*️⃣ PNG</code> <code>*️⃣ JPEG</code> <code>#️⃣ JSON</code></td>
+    <td><code>🗝️ plugin_pagespeed_token</code></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+      <details open><summary>PageSpeed scores</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" alt=""></img></details>
+      <details><summary>PageSpeed scores with detailed report</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.detailed.svg" alt=""></img></details>
+      <details><summary>PageSpeed scores with a website screenshot</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.screenshot.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
 </table>
 <!--/header-->
 
-## ℹ️ Examples workflows
+## ➡️ Available options
+
+<!--options-->
+<table>
+  <tr>
+    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_pagespeed</code></h4></td>
+    <td rowspan="2"><p>Enable pagespeed plugin</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
+<br>
+<b>default:</b> no<br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_pagespeed_url</code></h4></td>
+    <td rowspan="2"><p>Audited website</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">⏯️ Cannot be preset<br>
+<b>type:</b> <code>string</code>
+<br>
+<b>default:</b> <code>→ User attached website</code><br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_pagespeed_detailed</code></h4></td>
+    <td rowspan="2"><p>Detailed results</p>
+<p>The following additional stats will be displayed:</p>
+<ul>
+<li>First Contentful Paint</li>
+<li>Speed Index</li>
+<li>Largest Contentful Paint</li>
+<li>Time to Interactive</li>
+<li>Total Blocking Time</li>
+<li>Cumulative Layout Shift</li>
+</ul>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
+<br>
+<b>default:</b> no<br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_pagespeed_screenshot</code></h4></td>
+    <td rowspan="2"><p>Display a website screenshot</p>
+<p>Significantly increase filesize</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
+<br>
+<b>default:</b> no<br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_pagespeed_token</code></h4></td>
+    <td rowspan="2"><p>PageSpeed token</p>
+<p>Although not mandatory, it strongly advised to create one to avoid triggering the rate limiter. See <a href="https://developers.google.com/speed/docs/insights/v5/get-started">PageSpeed documentation</a> for more informations.</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">🔐 Token<br>
+<b>type:</b> <code>token</code>
+<br></td>
+  </tr>
+</table>
 
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
