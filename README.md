@@ -4,7 +4,7 @@
 
 ## Hi there my gorgeous friend
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Mohammad Maruf Gazi, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> I Spend most of time coding outstanding projects or recording tutorials.
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
@@ -33,7 +33,5 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 I love sharing My knowledge!
 
 #### Github Stats
-
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
