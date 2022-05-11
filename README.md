@@ -2,9 +2,9 @@
 
 ![](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/280423024_1011131923107354_8196128496511282366_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=ab6a21&_nc_ohc=OcD-M9KazPQAX9GT0fF&_nc_ht=scontent.fdac14-1.fna&oh=00_AT9qAahndEXlWCrKzcVBmljl401-0eIeuMalYd3hWclf1Q&oe=627E68B1)
 
-## Hi there my gorgeous friend
+## Hi there my gorgeous friend 👋
 
-I'm Mohammad Maruf Gazi, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> I Spend most of time coding outstanding projects or recording tutorials.
+I'm Mohammad Maruf Gazi, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> I Spend most of time coding outstanding projects.
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
