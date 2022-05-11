@@ -11,7 +11,7 @@ I'm Mohammad Maruf Gazi, a Full Stack Web Application Developer from 🇧🇩 I 
 :e-mail: &emsp;How to reach me: mohammadmarufgazi@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I artist
 
-:coffee: &emsp;Connect with me!
+:coffee: &emsp;Connect with me!  <br/>
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026316661875) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-maruf-gazi-a77b9621a/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmarufgazi@gmail.com)
 
 #### Things I code with
