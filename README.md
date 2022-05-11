@@ -4,7 +4,7 @@
 
 ## Hi there my gorgeous friend 👋
 
-I'm Mohammad Maruf Gazi, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> I Spend most of time coding outstanding projects.
+I'm Mohammad Maruf Gazi, a Full Stack Web Application Developer from 🇧🇩 I Spend most of time coding outstanding projects.
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
